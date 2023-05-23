@@ -1,0 +1,30 @@
+
+
+	THONG TIN NHAN VIEN CO LUONG NHO HON LUONG TRUNG BINH: (5220000.00)
+Loai nhan vien: San xuat
+Ma nhan vien: SX001
+Ho ten: Thao Linh
+Gioi tinh: nam
+Ngay sinh: 2/5/2003
+Dia chi: Thu Duc
+So san pham: 10
+Luong: 500000.00
+
+Loai nhan vien: San xuat
+Ma nhan vien: SX002
+Ho ten: Hai Linh
+Gioi tinh: nam
+Ngay sinh: 28/12/2003
+Dia chi: Binh Thuan
+So san pham: 10
+Luong: 500000.00
+
+Loai nhan vien: San xuat
+Ma nhan vien: SX003
+Ho ten: My Lam
+Gioi tinh: nam
+Ngay sinh: 16/5/2003
+Dia chi: Thu Duc
+So san pham: 12
+Luong: 600000.00
+

@@ -1,0 +1,46 @@
+So luong nhan vien: 5
+Loai nhan vien: San xuat
+Ma nhan vien: SX001
+Ho ten: Thao Linh
+Gioi tinh: nam
+Ngay sinh: 2/5/2003
+Dia chi: Thu Duc
+So san pham: 10
+Luong: 500000.00
+
+Loai nhan vien: Cong nhat
+Ma nhan vien: CN001
+Ho ten: Huy Hoang
+Gioi tinh: nam
+Ngay sinh: 3/4/2003
+Dia chi: Quang Ngai
+So ngay lam: 25.00
+Luong: 12500000.00
+
+Loai nhan vien: Cong nhat
+Ma nhan vien: CN002
+Ho ten: Hoang Khon
+Gioi tinh: nam
+Ngay sinh: 28/3/2003
+Dia chi: Dak Lak
+So ngay lam: 24.00
+Luong: 12000000.00
+
+Loai nhan vien: San xuat
+Ma nhan vien: SX002
+Ho ten: Hai Linh
+Gioi tinh: nam
+Ngay sinh: 28/12/2003
+Dia chi: Binh Thuan
+So san pham: 10
+Luong: 500000.00
+
+Loai nhan vien: San xuat
+Ma nhan vien: SX003
+Ho ten: My Lam
+Gioi tinh: nam
+Ngay sinh: 16/5/2003
+Dia chi: Thu Duc
+So san pham: 12
+Luong: 600000.00
+
